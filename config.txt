@@ -1,0 +1,6 @@
+# The Number of Threads in the Threadpool
+THREADS=40
+# The Port number of the HTTPS server
+PORT=4433
+# The HOME folder of the HTTP server
+HOME=./httphome
