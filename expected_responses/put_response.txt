@@ -1,0 +1,7 @@
+HTTP/1.1 501 Not Implemented
+Server: my_webserver
+Connection: close
+Content-type: text/plain
+Content-Length: 24
+
+Method not implemented!

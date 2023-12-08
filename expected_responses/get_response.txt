@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Server: my_webserver
+Connection: close
+Content-Length: 19
+Content-Type: text/plain
+
+Some example text
